@@ -16,6 +16,13 @@ max-width:1200px;
 margin:auto;
 }
 
+.home-head{
+    font-size: 18px;
+    font-weight: 600;
+    text-transform: uppercase;
+    color: #F39625;
+    margin-bottom: 20px;
+}
 .section{
 padding:80px 0;
 background-color: #eaf2ff;
